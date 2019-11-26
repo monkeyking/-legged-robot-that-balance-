@@ -16,6 +16,8 @@ How?
 本项目在QQ群里进行多人合作翻译，文章翻译以及四足机器人讨论群：<br>
 `欢迎任何对“Legged robot that balance”感兴趣的同学加入翻译小组!!!目前缺人！！！`<br>
 915307386(翻译小组)，  567423074(舵狗之家)<br>
+![](https://github.com/legged-robot-that-balance/-legged-robot-that-balance-/blob/master/翻译小组--QQ群.jpg)
+
 项目最终最新进展将会更新到github仓库上，地址：<br>
 https://github.com/legged-robot-that-balance/-legged-robot-that-balance-<br>
 
